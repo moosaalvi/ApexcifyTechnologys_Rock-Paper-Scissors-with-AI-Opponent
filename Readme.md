@@ -54,3 +54,15 @@ cd <repository-folder-name>
 
 # 3. Run Game
 python rps.py
+
+
+
+
+
+
+Detail       |    Value
+Developer    |    Moosa Alvi
+Task         |    "Rock, Paper, Scissors Game with AI Opponent"
+Organization |    Apexcify Technologies - Internship
+Status       |    Completed and Deployed 
+LinkedIn     |    https://www.linkedin.com/in/moosa-alvi-50b24a352/
