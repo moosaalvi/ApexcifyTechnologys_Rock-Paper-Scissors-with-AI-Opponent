@@ -10,7 +10,7 @@ pygame.init()
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("RPS: PIXEL PERFECT FINAL FIX V12")
+pygame.display.set_caption("Rock Paper and Scissors with AI opponent")
 CLOCK = pygame.time.Clock()
 
 # Colors (Same)
